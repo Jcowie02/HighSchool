@@ -1,2 +1,2 @@
 # High School
-Collection of Python code I worked on from Grade 10-12
+Collection of Python code I worked on in high school
